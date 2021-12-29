@@ -45,11 +45,10 @@ public class FirstApp {
             System.out.println("V1 = v2");
         }
 
-       drawCat();
-       drawCat();
-       drawCat();
-       drawCat();
-
+        drawCat();
+        drawCat();
+        drawCat();
+        drawCat();
 
 
     }
