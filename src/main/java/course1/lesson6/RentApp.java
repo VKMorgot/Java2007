@@ -47,6 +47,8 @@ public class RentApp {
 
         System.out.println(Arrays.toString(transports));
 
+        //Transport transport = new Car();
+
         //System.out.println(van);
     }
 }
