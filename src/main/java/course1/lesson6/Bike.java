@@ -6,4 +6,9 @@ public class Bike extends Transport{
     public Bike(int wheelsNumber) {
         this.wheelsNumber = wheelsNumber;
     }
+
+    @Override
+    public void wroomWroom() {
+        System.out.println("BZZZZZZZ");
+    }
 }
