@@ -1,4 +1,4 @@
-package lesson8;
+package course1.lesson8;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
